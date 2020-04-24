@@ -1,0 +1,47 @@
+
+h1{
+  color: #40514e;
+}
+
+
+/* class */
+.Zeromargin{
+  margin: 0px;
+}
+
+.topContainer{
+  background: #e4f9f5;
+  border: 10px;
+  border-color: black;
+  border-style: solid;
+  height: 200px;
+  margin: 0px;
+
+  padding: 20px;
+  width: 200px;
+
+}
+
+.middleContainer{
+  background: red;
+  border: 20px;
+  border-color: black;
+  border-style: solid;
+  height: 200px;
+  margin-left: 260px;
+  width: 200px;
+
+}
+
+.bottomContainer{
+  background: blue;
+  border: 10px;
+  border-color: black;
+  border-style: solid;
+  height: 200px;
+  margin-left: 500px;
+  width: 200px;
+
+}
+
+/* id */
